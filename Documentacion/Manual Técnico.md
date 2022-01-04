@@ -44,4 +44,8 @@ Scikit-learn da la posibilidad de tener una gran cantidad de opciones de procesa
 
 
 ## Acceso al Proyecto
-- Para acceder a la Aplicación de Predicciones debe ingresar al siguiente enlace:   [ML con Sklearn](https://ml-con-sklearn-e7gju.ondigitalocean.app/) 
+Para acceder a la Aplicación de Predicciones debe ingresar al siguiente enlace:   [ML con Sklearn](https://ml-con-sklearn-e7gju.ondigitalocean.app/) 
+### Pantalla de Inicio
+Al acceder a la aplicación debe visualizar la pantalla de inicio de la siguiente manera: 
+![Pantalla de Inicio](https://github.com/ErikssonHerlo/CovidDataAnalysis/blob/main/Documentacion/resources/1_StartScreen.png)
+
