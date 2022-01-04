@@ -240,21 +240,24 @@ Para utilizar la aplicación es necesario cargar un archivo, con un formato (csv
 
 ![Carga del Archivo](https://github.com/ErikssonHerlo/CovidDataAnalysis/blob/main/Documentacion/resources/2_UploadFile.png)
 
+#### Elección del Reporte
+El usuario debe elegir el tipo de reporte que desea generar, entre las distintas opciones
+![Eleccion del Reporte](https://github.com/ErikssonHerlo/CovidDataAnalysis/blob/main/Documentacion/resources/3_ChooseReport.png)
+
+#### Visualización de las Columnas
+El usuario podrá visualizar las Columnas que contiene el Archivo, desplegadas en una lista
+![Visualizacion de las Columnas](https://github.com/ErikssonHerlo/CovidDataAnalysis/blob/main/Documentacion/resources/4_PreviewColumns.png)
+
 #### Parametrización
-Las variables a utilizar en cada reporte, seran utilizadas por medio de un proceso de parametrización, en el que por medio de un solo archivo de entrada, se pueden generar distintos reportes, gracias a un proceso de filtrado de parametros, el cual se describe en cada uno de los reportes.
+El usuario debe elegir las columnas a utilizar, en base al tipo de reporte elegido. Dicha descripción de los parametros , por reporte la puede encontrar [aquí.](https://github.com/ErikssonHerlo/CovidDataAnalysis/blob/main/Documentacion/Manual%20de%20Usuario.md#reportes-a-generar)
+![Parametrizacion](https://github.com/ErikssonHerlo/CovidDataAnalysis/blob/main/Documentacion/resources/5_Parameterization.png)
 
-#### Tipos de Regresiones Lineales
-- Mínimos cuadrados ordinarios
-- Regresión logística
-- Regresión lineal generalizada
-- Regresión polinomial: extender modelos lineales con funciones base 
+#### Reporte Generado
+El usuario visualizará el Reporte Generado
+![ReporteGenerado](https://github.com/ErikssonHerlo/CovidDataAnalysis/blob/main/Documentacion/resources/6_GeneratedReport.png)
 
-## Requerimientos Técnicos 
-- Acceso a Internet 
-- Contar con un Archivo de Carga Correcto
-- Conocimiento previo de funciones matemáticas como Regresión Líneal, Funciones Polinomiales, Graficas de Tendencia y Medidas de Error.
-- Conocimiento previo en manejo de Aplicaciones de Predicción y Tendencias Estadisticas.
-
+#### Exportar el Reporte
+El usuario tendrá la opción de Exportar el Reporte Generado en un formato PDF
 
 #### Acceso al Proyecto
 - Para acceder a la Aplicación de Predicciones debe ingresar al siguiente enlace:   [ML con Sklearn](https://ml-con-sklearn-e7gju.ondigitalocean.app/) 
