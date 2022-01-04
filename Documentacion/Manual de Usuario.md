@@ -13,10 +13,10 @@
 El proyecto presentado, permite realizar distintos analisis de información basados de un origen de datos y en base a la parametrización de distintas variables configurables según el analísis, generar reportes estadisticos.
 
 ## Objetivos
-#### Objetivo General
+### Objetivo General
 -  Aplicar los conocimientos sobre Ciencia de Datos y Machine Learning para la realización de una Aplicación de Predicciones Estadisticas completa y Funcional.
 
-#### Objetivos Específicos
+### Objetivos Específicos
 - Reforzar los conocimientos matemáticos sobre Regresiones Lineales y Predicciones Estadisticas
 - Aplicar los conceptos de Ciencia de Datos, para el Analisis de Interpretación de Datos Estadísticos.
 
@@ -36,12 +36,12 @@ A continuación se tratará de cómo ha evolucionado la pandemia del covid-19 de
 Todos los datos recopilados y mostrados han sido extraídos de las bases de datos públicas de cada país que rastrean esta información. Con esta información y utilizando el lenguaje de programación Python y su biblioteca Sckit-learn, es posible analizar y predecir los datos que se mostrarán a continuación.
 
 ## Descripción de la Aplicación
-#### Funcionalidades
+### Funcionalidades
 Esta aplicación tendrá como objetivo principal que un usuario pueda generar distintos análisis de información basados de un origen de datos (archivos con extensión CSV, JSON, XLSX, XLS).
 
-#### Parametrización
+### Parametrización
 Las variables a utilizar en cada reporte, seran utilizadas por medio de un proceso de parametrización, en el que por medio de un solo archivo de entrada, se pueden generar distintos reportes, gracias a un proceso de filtrado de parametros, el cual se describe en cada uno de los reportes.
-#### Reportes a Generar
+### Reportes a Generar
 En cada uno de los Reportes que la Aplicación puede generar, se describen los datos que espera recibir cada uno de los Reportes.
 ##### 1. Tendencia de la infección por Covid-19 en un País.
    - Columna con Paises
