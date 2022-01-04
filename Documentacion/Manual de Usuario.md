@@ -237,7 +237,8 @@ En cada uno de los Reportes que la Aplicación puede generar, se describen los d
 ## Flujo de la Aplicación
 #### Carga de Archivos
 Para utilizar la aplicación es necesario cargar un archivo, con un formato (csv, json, xlsx, xls).
-![Texto alternativo](/ruta/a/la/imagen.jpg)
+
+![Carga del Archivo](https://github.com/ErikssonHerlo/CovidDataAnalysis/blob/main/Documentacion/resources/2_UploadFile.png)
 
 #### Parametrización
 Las variables a utilizar en cada reporte, seran utilizadas por medio de un proceso de parametrización, en el que por medio de un solo archivo de entrada, se pueden generar distintos reportes, gracias a un proceso de filtrado de parametros, el cual se describe en cada uno de los reportes.
